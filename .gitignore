@@ -1,0 +1,12 @@
+# Recursos pesados de trabajo local y material fuente (no van al repo ni al hosting)
+/img/
+/videos/
+/assests nuevos/
+/aura-dropshipping-portable/
+/scratch/
+
+# Archivos del sistema y temporales
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
